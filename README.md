@@ -1,9 +1,9 @@
-##Power BI — Limpeza, Tratamento e Dashboard.
+## Power BI — Limpeza, Tratamento e Dashboard.
 
 Este repositório contém um projeto desenvolvido em Microsoft Power BI e DAX Studio para fins de aprendizado em análise de dados.
 O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados até a construção de um dashboard final.
 
-##Estrutura do Projeto:
+## Estrutura do Projeto:
 
 - Dados Brutos → Contém os arquivos originais em .csv.
 
@@ -12,7 +12,7 @@ O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados a
 - Relatórios → Arquivos .pbix e .pbit (template) do Power BI, além da imagem pdf do dashboard.
 
 
-##Etapas Realizadas:
+## Etapas Realizadas:
 
 1° Limpeza dos dados
 
@@ -38,7 +38,7 @@ O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados a
 
 12° Utilização de segmentações e KPIs principais
 
-##Como Visualizar o Dashboard:
+## Como Visualizar o Dashboard:
 
 - Baixe e instale o Microsoft Power BI Desktop.
 
@@ -52,7 +52,7 @@ O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados a
 
 - Se preferir, você também pode visualizar o print do dashboard, está em relatórios/Dashboard - Imagem.pdf.
 
-##Ferramentas Utilizadas:
+## Ferramentas Utilizadas:
 
 - Microsoft Power BI Desktop.
 
