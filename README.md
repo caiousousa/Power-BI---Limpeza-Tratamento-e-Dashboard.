@@ -7,7 +7,7 @@ O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados a
 ## Resultado Final. 
 
 
-![Dashboard Final do Projeto Power BI]("C:\Users\caioe\Downloads\a4b47e62.png")
+![Dashboard Final do Projeto Power BI]("a4b47e62.png")
 ## Estrutura do Projeto:
 
 - Dados Brutos → Contém os arquivos originais em .csv.
