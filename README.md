@@ -3,6 +3,11 @@
 Este repositório contém um projeto desenvolvido em Microsoft Power BI e DAX Studio para fins de aprendizado em análise de dados.
 O objetivo foi simular um fluxo real de trabalho — desde a limpeza dos dados até a construção de um dashboard final.
 
+
+## Resultado Final. 
+
+
+![Dashboard Final do Projeto Power BI]("C:\Users\caioe\Downloads\a4b47e62.png")
 ## Estrutura do Projeto:
 
 - Dados Brutos → Contém os arquivos originais em .csv.
